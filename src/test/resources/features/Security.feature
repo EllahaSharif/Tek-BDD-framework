@@ -1,4 +1,4 @@
-@Smoke @Regression
+@Regression
 Feature: Application Security Functions
 
   @US_3
